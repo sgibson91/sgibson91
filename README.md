@@ -23,7 +23,7 @@ She has also mentored projects through two cohorts of the [Open Life Science pro
 - [2019: Seasons of Reflection](https://sgibson91.github.io/blog/seasons-of-reflection/)
 <!-- BLOG-POST-LIST:END -->
 
-[▶️ ...more blog posts](https:sgibson91.github.io/blog/)
+[▶️ ...more blog posts](https://sgibson91.github.io/blog/)
 
 ---
 
