@@ -16,4 +16,9 @@ She has also mentored projects through two cohorts of the [Open Life Science pro
 
 ### 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Collaborations Workshop 2021](https://sgibson91.github.io/blog/collabw21/)
+- [Continuous Integration: Fail Fast and Fail First](https://sgibson91.github.io/blog/continuous-integration/)
+- [February 2020 Update](https://sgibson91.github.io/blog/february-2020-update/)
+- [Software Sustainability Institute Fellowship 2020](https://sgibson91.github.io/blog/ssi-fellowship/)
+- [2019: Seasons of Reflection](https://sgibson91.github.io/blog/seasons-of-reflection/)
 <!-- BLOG-POST-LIST:END -->
