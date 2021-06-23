@@ -29,6 +29,4 @@ She has also mentored projects through two cohorts of the [Open Life Science pro
 
 ### 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgibson91&hide=javascript,html,css,scss&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![sgibson91's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgibson91&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgibson91&hide=javascript,html,css,scss&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![sgibson91's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgibson91&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
