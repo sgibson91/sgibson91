@@ -13,3 +13,7 @@ She is a member of the [mybinder.org operating team](https://jupyterhub-team-com
 She has also mentored projects through two cohorts of the [Open Life Science programme](https://openlifesci.org), imparting lived experience of her skills participating and leading in open science projects.
 
 ---
+
+### 📚 Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
