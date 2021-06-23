@@ -2,7 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:  # Run workflow automatically
-    - cron: "0 * * * *"  # Runs on the hour, every hour
+    - cron: "0 0 1 * *"  # Runs on the first day of every month, at midnight
   # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
   workflow_dispatch:
 
