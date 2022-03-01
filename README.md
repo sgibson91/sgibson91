@@ -16,11 +16,11 @@ She has also mentored projects through two cohorts of the [Open Life Science pro
 
 ### 📚 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Things I&#39;ve Learned: January 2022](https://sgibson91.github.io/blog/til-jan22/)
 - [How I automated authorised cloud deployments from Pull Requests with GitHub Actions](https://sgibson91.github.io/blog/test-this-pr/)
 - [Create a Blog with Hugo and GitHub Pages](https://sgibson91.github.io/blog/hugo-tutorial/)
 - [Collaborations Workshop 2021](https://sgibson91.github.io/blog/collabw21/)
 - [Continuous Integration: Fail Fast and Fail First](https://sgibson91.github.io/blog/continuous-integration/)
-- [February 2020 Update](https://sgibson91.github.io/blog/february-2020-update/)
 <!-- BLOG-POST-LIST:END -->
 
 [▶️ ...more blog posts](https://sgibson91.github.io/blog/)
