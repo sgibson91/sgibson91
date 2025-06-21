@@ -2,7 +2,7 @@
 #### Software developer, cloud infrastructure engineer, and crazy cat lady known for automating the boring stuff
 #### Pronouns: she/her
 
-![GitHub followers](https://img.shields.io/github/followers/sgibson91?style=social) [![](https://img.shields.io/badge/visit-blog-blueviolet)](https://sgibson91.github.io)
+![GitHub followers](https://img.shields.io/github/followers/sgibson91?style=social) [![](https://img.shields.io/badge/visit-blog-blueviolet)](https://sgibson91.github.io/blog/)
 
 Sarah Gibson is a highly skilled software and cloud infrastructure engineer with a strong track record of enabling open, data-driven research at scale. With 6+ years of experience at the intersection of technology, research, and education — spanning a pioneering tech nonprofit and a leading national institute for data science and AI — Sarah brings both deep technical expertise and a passion for collaboration.
 
