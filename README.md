@@ -14,11 +14,11 @@ Driven by a belief in the power of interdisciplinary collaboration, Sarah thrive
 
 ### 📚 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tech update: Multiple JupyterHubs, multiple clusters, one repository.](https://sgibson91.github.io/blog/2i2c-ci-cd-improvements/)
-- [Things I&#39;ve Learned: January 2022](https://sgibson91.github.io/blog/til-jan22/)
-- [How I automated authorised cloud deployments from Pull Requests with GitHub Actions](https://sgibson91.github.io/blog/test-this-pr/)
-- [Create a Blog with Hugo and GitHub Pages](https://sgibson91.github.io/blog/hugo-tutorial/)
-- [Collaborations Workshop 2021](https://sgibson91.github.io/blog/collabw21/)
+- [Complete a 3 Peaks Challenge](https://sgibson91.github.io/blog/2025/2025-07-05-complete-a-3-peaks-challenge/)
+- [Go Horseback Riding](https://sgibson91.github.io/blog/2025/2025-07-05-go-horseback-riding/)
+- [See an Iconic West End Theatre Show](https://sgibson91.github.io/blog/2025/2025-06-07-see-an-iconic-west-end-theatre-show/)
+- [See an Orchestra in Concert](https://sgibson91.github.io/blog/2025/2025-06-02-see-an-orchestra-in-concert/)
+- [Have a Professional Photoshoot](https://sgibson91.github.io/blog/2025/2025-06-02-have-a-professional-photoshoot/)
 <!-- BLOG-POST-LIST:END -->
 
 [▶️ ...more blog posts](https://sgibson91.github.io/blog/)
