@@ -14,11 +14,11 @@ Driven by a belief in the power of interdisciplinary collaboration, Sarah thrive
 
 ### 📚 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Turned Down a Leadership Role](https://sgibson91.github.io/blog/2025/2025-11-26-turned-down-leadership-role/)
 - [Complete a 3 Peaks Challenge](https://sgibson91.github.io/blog/2025/2025-07-05-complete-a-3-peaks-challenge/)
 - [Go Horseback Riding](https://sgibson91.github.io/blog/2025/2025-07-05-go-horseback-riding/)
 - [See an Iconic West End Theatre Show](https://sgibson91.github.io/blog/2025/2025-06-07-see-an-iconic-west-end-theatre-show/)
 - [See an Orchestra in Concert](https://sgibson91.github.io/blog/2025/2025-06-02-see-an-orchestra-in-concert/)
-- [Have a Professional Photoshoot](https://sgibson91.github.io/blog/2025/2025-06-02-have-a-professional-photoshoot/)
 <!-- BLOG-POST-LIST:END -->
 
 [▶️ ...more blog posts](https://sgibson91.github.io/blog/)
